@@ -1,1 +1,6 @@
- 
+Django>=5.2.1
+ djangorestframework
+ dj-rest-auth
+ django-allauth
+ python-dotenv
+ PyJWT 
