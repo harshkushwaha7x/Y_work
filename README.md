@@ -12,7 +12,7 @@ This project is a template for an Order Management System using Django Rest Fram
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
+git clone https://github.com/harshkushwaha7x/Y_work.git
 cd <project-directory>
 ```
 
